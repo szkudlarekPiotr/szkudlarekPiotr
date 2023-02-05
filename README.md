@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szkudlarekPiotr
 - 👀 I’m interested in python programming.
-- 🌱 I’m currently learning on Adam Mickiewicz University - Computer linguistics.
+- 🌱 I’m currently learning on Adam Mickiewicz University - Data analysis.
 - 📫 How to reach me:
 - Email: szkudlarekp5@gmail.com
 
