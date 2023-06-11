@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on Adam Mickiewicz University - Data analysis.
 - 📫 How to reach me:
 - Email: szkudlarekp5@gmail.com
-- LinkedIn: linkedin.com/in/szkudlarekPiotr
+- LinkedIn: [linkedin.com/in/szkudlarekPiotr](linkedin.com/in/szkudlarekPiotr)
 
 <!---
 szkudlarekPiotr/szkudlarekPiotr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
