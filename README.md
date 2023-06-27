@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @szkudlarekPiotr
-- 👀 I’m interested in python programming.
+- 👋 Hi, I'm Piotr Szkudlarek
+- 👀 I’m interested in Python programming.
 - 🌱 I’m currently studying Data Analysis at Adam Mickiewicz University in Poznań.
 - 📫 How to reach me:
 - Email: szkudlarekp5@gmail.com
